@@ -25,6 +25,10 @@
 * [cfd-dlc](https://github.com/p2pderivatives/cfd-dlc)
 * [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s)
 
+## Oracles
+* [suredbits oracle explorer](https://oracle.suredbits.com/)
+* [krystal bull](https://github.com/bitcoin-s/krystal-bull), also available on umbrell
+
 ## Community 
 * [DLC telegram](https://t.me/BitcoinDLCs)
 * [Lightning Dev Kit slack DLC chat](https://join.slack.com/t/lightningdevkit/shared_invite/zt-tte36cb7-r5f41MDn3ObFtDu~N9dCrQ)
