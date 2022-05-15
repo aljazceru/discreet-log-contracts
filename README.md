@@ -29,6 +29,9 @@
 * [suredbits oracle explorer](https://oracle.suredbits.com/)
 * [krystal bull](https://github.com/bitcoin-s/krystal-bull), also available on umbrell
 
+## Tools 
+* [Itchy Sats](https://github.com/itchysats/itchysats), CFD trading on Bitcoin - non-custodial, peer-to-peer, Bitcoin only enabled by DLCs
+
 ## Community 
 * [DLC telegram](https://t.me/BitcoinDLCs)
 * [Lightning Dev Kit slack DLC chat](https://join.slack.com/t/lightningdevkit/shared_invite/zt-tte36cb7-r5f41MDn3ObFtDu~N9dCrQ)
