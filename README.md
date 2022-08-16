@@ -12,6 +12,7 @@
 * [Crypto Hedging With Discreet Log Contracts](https://suredbits.com/crypto-hedging-with-discreet-log-contracts/)
 * [Discreet Log Contract Demonstration](https://suredbits.com/discreet-log-contract-demonstration/)
 * [What you should know about bitcoin DLCs - Stephan Livera podcast](https://stephanlivera.com/episode/219/)
+* [DLC by Optech](https://bitcoinops.org/en/topics/discreet-log-contracts/)
 
 ## Talks
 
