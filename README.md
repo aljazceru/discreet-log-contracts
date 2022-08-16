@@ -35,4 +35,4 @@
 
 ## Community 
 * [DLC telegram](https://t.me/BitcoinDLCs)
-* [Lightning Dev Kit slack DLC chat](https://join.slack.com/t/lightningdevkit/shared_invite/zt-tte36cb7-r5f41MDn3ObFtDu~N9dCrQ)
+* [Lightning Dev Kit discord DLC chat](https://discord.gg/5AcknnMfBw)
