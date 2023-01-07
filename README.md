@@ -1,4 +1,4 @@
-# Discreet log contracts
+Discreeet log contract is an oracle contract scheme proposed by Tadge.
 
 ## Blog Posts
 
