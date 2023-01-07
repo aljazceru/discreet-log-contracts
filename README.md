@@ -15,6 +15,8 @@ A discrete log contract (DLC) is a way for two parties to enter into a contract 
 * [Discreet Log Contract Demonstration](https://suredbits.com/discreet-log-contract-demonstration/)
 * [What you should know about bitcoin DLCs - Stephan Livera podcast](https://stephanlivera.com/episode/219/)
 * [DLC by Optech](https://bitcoinops.org/en/topics/discreet-log-contracts/)
+* [Discreet Log Contract by River](https://river.com/learn/terms/d/discreet-log-contract-dlc/)
+* [DLC on Lightning](https://medium.com/crypto-garage/dlc-on-lightning-cb5d191f6e64)
 
 ## Talks
 
@@ -27,6 +29,7 @@ A discrete log contract (DLC) is a way for two parties to enter into a contract 
 * [rust-dlc](https://github.com/p2pderivatives/rust-dlc)
 * [cfd-dlc](https://github.com/p2pderivatives/cfd-dlc)
 * [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s)
+* [10101](https://github.com/get10101/10101), lightning and DLC wallet
 
 ## Oracles
 * [suredbits oracle explorer](https://oracle.suredbits.com/)
