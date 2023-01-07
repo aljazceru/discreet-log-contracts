@@ -3,6 +3,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 A discrete log contract (DLC) is a way for two parties to enter into a contract without revealing certain information to each other or the oracle.
 
 ## Reading
+* [Introduction to Discreet log contracts](https://github.com/discreetlogcontracts/dlcspecs/blob/master/Introduction.md)
 * [Discreet log contracts @ MIT](https://dci.mit.edu/smart-contracts)
 * [Discreet Log Contracts: invisible smart contracts on the Bitcoin blockchain](https://medium.com/@gertjaap/discreet-log-contracts-invisible-smart-contracts-on-the-bitcoin-blockchain-cc8afbdbf0db)
 * [P2P Protocol Based Crypto Asset Derivative Settled in Bitcoin on Discreet Log Contracts](https://medium.com/crypto-garage/p2p-protocol-based-crypto-asset-derivative-settled-in-bitcoin-on-discreet-log-contracts-13c823448ae8)
@@ -30,7 +31,8 @@ A discrete log contract (DLC) is a way for two parties to enter into a contract 
 * [Getting to the Bottom of Discreet Log Contracts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83MmNhYmJlOC9wb2RjYXN0L3Jzcw/episode/NmE0YzVlNWYtYmJhYi00NjUyLWI1ZTItNzA2MjFkYmJmM2Yx)
 * [DLCs are on Bitcoin! New Functionality & Potential (Ben Carman)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MGQ1Y2ZjL3BvZGNhc3QvcnNz/episode/MjBhZTJkZDgtODI1ZC00NzNkLWE5NTktMTE5N2MxNWQzN2U4)
 
-
+## Specs
+* [dlc-specs](https://github.com/discreetlogcontracts/dlcspecs)
 
 ## Implementations 
 * [NDLC implementation by Nicolas Dorier](https://github.com/dgarage/NDLC) 
