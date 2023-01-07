@@ -26,21 +26,26 @@ A discrete log contract (DLC) is a way for two parties to enter into a contract 
 
 ## Implementations 
 * [NDLC implementation by Nicolas Dorier](https://github.com/dgarage/NDLC) 
-* [rust-dlc](https://github.com/p2pderivatives/rust-dlc)
-* [cfd-dlc](https://github.com/p2pderivatives/cfd-dlc)
-* [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s)
+* [rust-dlc](https://github.com/p2pderivatives/rust-dlc), Rust library for working with Discreet Log Contracts 
+* [cfd-dlc](https://github.com/p2pderivatives/cfd-dlc), Library for creating and managing Discreet Log Contracts (DLC) 
+* [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s), Bitcoin Implementation in Scala 
+* [node-dlc](https://github.com/AtomicFinance/node-dlc), Bitcoin DLC Protocol in Node.js runtime 
+
+## Applications 
 * [10101](https://github.com/get10101/10101), lightning and DLC wallet
-
-## Oracles
-* [suredbits oracle explorer](https://oracle.suredbits.com/)
-* [krystal bull](https://github.com/bitcoin-s/krystal-bull), also available on umbrell
-
-## Tools 
+* [P2PDerivatives client ](https://github.com/p2pderivatives/p2pderivatives-client)
 * [Itchy Sats](https://github.com/itchysats/itchysats), CFD trading on Bitcoin - non-custodial, peer-to-peer, Bitcoin only enabled by DLCs
 
+## Oracles
+* [suredbits oracle explorer](https://oracle.suredbits.com/), 
+* [krystal bull](https://github.com/bitcoin-s/krystal-bull), a full featured DLC Oracle
+* [dlc-oracle-nodejs](https://github.com/mit-dci/dlc-oracle-nodejs),  A library for making Discreet Log Contracts oracles in NodeJS 
+
+
 ## Community 
-* [DLC telegram](https://t.me/BitcoinDLCs)
+* [dlc-dev mailing list](https://mailmanlists.org/mailman/listinfo/dlc-dev)
 * [Lightning Dev Kit discord DLC chat](https://discord.gg/5AcknnMfBw)
+* [DLC telegram group](https://t.me/BitcoinDLCs)
 
 
 
