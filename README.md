@@ -41,3 +41,7 @@ A discrete log contract (DLC) is a way for two parties to enter into a contract 
 ## Community 
 * [DLC telegram](https://t.me/BitcoinDLCs)
 * [Lightning Dev Kit discord DLC chat](https://discord.gg/5AcknnMfBw)
+
+
+
+List is maintained by [@aaaljaz](https://twitter.com/aaaljaz).
