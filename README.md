@@ -1,4 +1,6 @@
-Discreeet log contract is an oracle contract scheme proposed by Tadge.
+Discreet log contract is an oracle contract scheme proposed by Tadge.
+
+A discrete log contract (DLC) is a way for two parties to enter into a contract without revealing certain information to each other or the oracle.
 
 ## Blog Posts
 
