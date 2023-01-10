@@ -16,6 +16,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Discreet Log Contract by River](https://river.com/learn/terms/d/discreet-log-contract-dlc/)
 * [DLC on Lightning](https://medium.com/crypto-garage/dlc-on-lightning-cb5d191f6e64)
 * [A Layperson's Guide to Discreet Log Contracts](https://atomic.finance/blog/a-laypersons-guide-to-discreet-log-contracts-atomic-yield-series-part-3/)
+* [Bitcoin Oracle Contracts: Discreet Log Contracts in Practice](https://ieeexplore.ieee.org/document/9805512)
 
 ## Talks and podcasts
 
@@ -37,18 +38,20 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [rust-dlc](https://github.com/p2pderivatives/rust-dlc), Rust library for working with Discreet Log Contracts 
 * [cfd-dlc](https://github.com/p2pderivatives/cfd-dlc), Library for creating and managing Discreet Log Contracts (DLC) 
 * [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s), Bitcoin Implementation in Scala 
-* [node-dlc](https://github.com/AtomicFinance/node-dlc), Bitcoin DLC Protocol in Node.js runtime 
+* [node-dlc](https://github.com/AtomicFinance/node-dlc), Bitcoin DLC Protocol in Node.js runtime
 
 ## Applications 
 * [10101](https://github.com/get10101/10101), lightning and DLC wallet
 * [P2PDerivatives client ](https://github.com/p2pderivatives/p2pderivatives-client)
 * [Itchy Sats](https://github.com/itchysats/itchysats), CFD trading on Bitcoin - non-custodial, peer-to-peer, Bitcoin only enabled by DLCs
+* [Atomic Finance](https://atomic.finance/)
 
 ## Oracles
 * [suredbits oracle explorer](https://oracle.suredbits.com/), 
 * [krystal bull](https://github.com/bitcoin-s/krystal-bull), a full featured DLC Oracle
 * [dlc-oracle-nodejs](https://github.com/mit-dci/dlc-oracle-nodejs),  A library for making Discreet Log Contracts oracles in NodeJS 
-
+* [Sybils](https://github.com/lava-xyz/sibyls), an oracle implementation based on rust-dlc
+* [p2pderivatives-oracle](https://github.com/p2pderivatives/p2pderivatives-oracle), and oracle implementation for numerical event written in golang
 
 ## Community 
 * [dlc-dev mailing list](https://mailmanlists.org/mailman/listinfo/dlc-dev)
