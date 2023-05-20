@@ -30,6 +30,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Discreet Log Contracts - Bitcoin Explained](https://podcasts.google.com/feed/aHR0cHM6Ly9uYWRvYnRjLmxpYnN5bi5jb20vcnNz/episode/YTc0ZGY5MzEtMDE3Yy00ZTQ2LTkzNjgtZTQ2N2JmZDQxYWQz)
 * [Getting to the Bottom of Discreet Log Contracts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83MmNhYmJlOC9wb2RjYXN0L3Jzcw/episode/NmE0YzVlNWYtYmJhYi00NjUyLWI1ZTItNzA2MjFkYmJmM2Yx)
 * [DLCs are on Bitcoin! New Functionality & Potential (Ben Carman)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MGQ1Y2ZjL3BvZGNhc3QvcnNz/episode/MjBhZTJkZDgtODI1ZC00NzNkLWE5NTktMTE5N2MxNWQzN2U4)
+* [Shehzan Maredia on Building Lava, Bitcoin-Native Borrowing, and Improving Self-Custody UX](https://www.stacksats.how/podcasts/e107-shehzan-maredia-on-building-lava-bitcoin-native-borrowing-and-improving-self-custody-ux) 
 
 ## Specs
 * [dlc-specs](https://github.com/discreetlogcontracts/dlcspecs)
