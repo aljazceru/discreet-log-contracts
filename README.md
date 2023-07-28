@@ -46,12 +46,16 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [P2P Derivatives-Client](https://github.com/p2pderivatives/p2pderivatives-client), Bitcoin DLC Protocol Implementation in Typescript
 * [P2P Derivatives DLC](https://github.com/p2pderivatives/dlc), Bitcoin DLC Protocol Implementation in Go
 * [Oracle](https://github.com/p2pderivatives/p2pderivatives-oracle), Implementation in Go for price feed,serving data
+* [Maia](https://github.com/comit-network/maia), A library for CFDs on Bitcoin which uses DLCs
+* [DLC-Stack](https://github.com/DLC-link/dlc-stack),  Contains projects for the Bitcoin Oracle and a headless DLC / BTC Wallet for DApps 
 
 ## Applications 
 * [10101](https://github.com/get10101/10101), lightning and DLC wallet
 * [P2PDerivatives client ](https://github.com/p2pderivatives/p2pderivatives-client)
 * [Itchy Sats](https://github.com/itchysats/itchysats), CFD trading on Bitcoin - non-custodial, peer-to-peer, Bitcoin only enabled by DLCs
 * [Atomic Finance](https://atomic.finance/)
+* [Lava](https://www.lava.xyz/)
+* [Bitswap](https://bitswap-bifi.github.io/)
 
 ## Oracles
 * [suredbits oracle explorer](https://oracle.suredbits.com/), 
