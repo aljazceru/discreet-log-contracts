@@ -66,6 +66,13 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 
 
 
- Wiki maintained by [@aaaljaz](https://twitter.com/aaaljaz).
+
+Want to explore what is happening in lightning ecosystem check out [Lightning Landscape](https://www.lightning-landscape.net/projects).
+
+Wanna know what people are building on Nostr? [nostr.net](https://www.nostr.net) to the rescue.
+
+Interested in running your own lightning network node? [lightning-network.tech](https://www.lightning-network.tech/) has a list of useful resources.
  
- If you want to submit a link please open a [PR](https://github.com/aljazceru/discreet-log-contracts)
+If you want to submit a link please open a [PR](https://github.com/aljazceru/discreet-log-contracts)
+
+Wiki maintained by [@aaaljaz](https://twitter.com/aaaljaz).
