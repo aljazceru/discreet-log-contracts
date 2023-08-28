@@ -34,6 +34,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 
 ## Specs
 * [dlc-specs](https://github.com/discreetlogcontracts/dlcspecs)
+* [whitepaper](https://adiabat.github.io/dlc.pdf)
 
 ## Implementations 
 * [NDLC implementation by Nicolas Dorier](https://github.com/dgarage/NDLC) 
