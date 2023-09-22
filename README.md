@@ -37,7 +37,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [whitepaper](https://adiabat.github.io/dlc.pdf)
 
 ## Implementations 
-* [NDLC implementation by Nicolas Dorier](https://github.com/dgarage/NDLC)![stars](https://img.shields.io/github/stars/dgarage/NDLC.svg?style=social)
+* [NDLC](https://github.com/dgarage/NDLC)![stars](https://img.shields.io/github/stars/dgarage/NDLC.svg?style=social). DLC implementation by Nicolas Dorier
 * [rust-dlc](https://github.com/p2pderivatives/rust-dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/rust-dlc?style=social), Rust library for working with Discreet Log Contracts 
 * [cfd-dlc](https://github.com/p2pderivatives/cfd-dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/cfd-dlc?style=social), Library for creating and managing Discreet Log Contracts (DLC) 
 * [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s)![stars](https://img.shields.io/github/stars/bitcoin-s/bitcoin-s.svg?style=social), Bitcoin Implementation in Scala 
@@ -51,20 +51,20 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Schnorr related examples](https://github.com/yuntai/schnorr-examples)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social),Schnorr, BN, MuSig, discreet log contracts in Phyhton
 
 ## Applications 
-* [10101](https://github.com/get10101/10101), lightning and DLC wallet with trading derivatives
-* [P2PDerivatives client ](https://github.com/p2pderivatives/p2pderivatives-client), Infrastructure for DLCs
-* [Itchy Sats](https://github.com/itchysats/itchysats), CFD trading on Bitcoin - non-custodial, peer-to-peer, Bitcoin only enabled by DLCs
+* [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
+* [P2PDerivatives client ](https://github.com/p2pderivatives/p2pderivatives-client)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social), Infrastructure for DLCs
+* [Itchy Sats](https://github.com/itchysats/itchysats)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social), CFD trading on Bitcoin - non-custodial, peer-to-peer, Bitcoin only enabled by DLCs
 * [Atomic Finance](https://atomic.finance/), Yield on-chain with DLCs
 * [Lava](https://www.lava.xyz/),  Self custody with Bitcoin and DLCs
-* [Bitswap](https://github.com/Bitswap-BiFi), Automated Market Maker (AMM) on RGB Protocol and Lightning Network
+* [Bitswap](https://github.com/Bitswap-BiFi),![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social) Automated Market Maker (AMM) on RGB Protocol and Lightning Network
 
 ## Oracles
 * [suredbits oracle explorer](https://oracle.suredbits.com/), 
-* [krystal bull](https://github.com/bitcoin-s/krystal-bull), a full featured DLC Oracle
-* [dlc-oracle-nodejs](https://github.com/mit-dci/dlc-oracle-nodejs),  A library for making Discreet Log Contracts oracles in NodeJS 
-* [Sybils](https://github.com/lava-xyz/sibyls), an oracle implementation based on rust-dlc
-* [p2pderivatives-oracle](https://github.com/p2pderivatives/p2pderivatives-oracle), and oracle implementation for numerical event written in golang
-* [sibyls](https://github.com/lava-xyz/sibyls) - oracle implementation for numeric discreet log contracts 
+* [krystal bull](https://github.com/bitcoin-s/krystal-bull)![stars](https://img.shields.io/github/stars/bitcoin-s/krystal-bull?style=social), a full featured DLC Oracle
+* [dlc-oracle-nodejs](https://github.com/mit-dci/dlc-oracle-nodejs)![stars](https://img.shields.io/github/stars/mit-dci/dlc-oracle-nodejs?style=social),  A library for making Discreet Log Contracts oracles in NodeJS 
+* [Sybils](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), an oracle implementation based on rust-dlc
+* [p2pderivatives-oracle](https://github.com/p2pderivatives/p2pderivatives-oracle)![stars](https://img.shields.io/github/stars/p2pderivatives/p2pderivatives-oracle?style=social), and oracle implementation for numerical event written in golang
+* [sibyls](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), oracle implementation for numeric discreet log contracts 
 
 ## Community 
 * [dlc-dev mailing list](https://mailmanlists.org/mailman/listinfo/dlc-dev)
