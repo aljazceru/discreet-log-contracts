@@ -51,7 +51,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Schnorr related examples](https://github.com/yuntai/schnorr-examples)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social),Schnorr, BN, MuSig, discreet log contracts in Phyhton
 
 ## Applications 
-* [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
+* [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/stars/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
 * [P2PDerivatives client ](https://github.com/p2pderivatives/p2pderivatives-client)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social), Infrastructure for DLCs
 * [Itchy Sats](https://github.com/itchysats/itchysats)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social), CFD trading on Bitcoin - non-custodial, peer-to-peer, Bitcoin only enabled by DLCs
 * [Atomic Finance](https://atomic.finance/), Yield on-chain with DLCs
