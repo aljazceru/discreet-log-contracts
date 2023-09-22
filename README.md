@@ -37,18 +37,18 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [whitepaper](https://adiabat.github.io/dlc.pdf)
 
 ## Implementations 
-* [NDLC implementation by Nicolas Dorier](https://github.com/dgarage/NDLC) 
-* [rust-dlc](https://github.com/p2pderivatives/rust-dlc), Rust library for working with Discreet Log Contracts 
-* [cfd-dlc](https://github.com/p2pderivatives/cfd-dlc), Library for creating and managing Discreet Log Contracts (DLC) 
-* [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s), Bitcoin Implementation in Scala 
-* [node-dlc](https://github.com/AtomicFinance/node-dlc), Bitcoin DLC Protocol in Node.js runtime
-* [ExFacto](https://github.com/ExFacto/exfacto), Bitcoin DLC Protocol Implementation in Exilir
-* [Javascript-dlc](https://github.com/AreaLayer/javascript-dlc), Javascript library for working with Discreet Log Contracts and Lighttning Network
-* [P2P Derivatives-Client](https://github.com/p2pderivatives/p2pderivatives-client), Bitcoin DLC Protocol Implementation in Typescript
-* [P2P Derivatives DLC](https://github.com/p2pderivatives/dlc), Bitcoin DLC Protocol Implementation in Go
-* [Maia](https://github.com/comit-network/maia), A library for CFDs on Bitcoin which uses DLCs
-* [DLC-Stack](https://github.com/DLC-link/dlc-stack),  Contains projects for the Bitcoin Oracle and a headless DLC / BTC Wallet for DApps
-* [Schnorr related examples](https://github.com/yuntai/schnorr-examples),Schnorr, BN, MuSig, discreet log contracts in Phyhton
+* [NDLC implementation by Nicolas Dorier](https://github.com/dgarage/NDLC)![stars](https://img.shields.io/github/stars/dgarage/NDLC.svg?style=social)
+* [rust-dlc](https://github.com/p2pderivatives/rust-dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/rust-dlc?style=social), Rust library for working with Discreet Log Contracts 
+* [cfd-dlc](https://github.com/p2pderivatives/cfd-dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/cfd-dlc?style=social), Library for creating and managing Discreet Log Contracts (DLC) 
+* [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s)![stars](https://img.shields.io/github/stars/bitcoin-s/bitcoin-s.svg?style=social), Bitcoin Implementation in Scala 
+* [node-dlc](https://github.com/AtomicFinance/node-dlc)![stars](https://img.shields.io/github/stars/AtomicFinance/node-dlc.svg?style=social), Bitcoin DLC Protocol in Node.js runtime
+* [ExFacto](https://github.com/ExFacto/exfacto)![stars](https://img.shields.io/github/stars/ExFacto/exfacto.svg?style=social), Bitcoin DLC Protocol Implementation in Exilir
+* [Javascript-dlc](https://github.com/AreaLayer/javascript-dlc)![stars](https://img.shields.io/github/stars/AreaLayer/javascript-dlc.svg?style=social), Javascript library for working with Discreet Log Contracts and Lighttning Network
+* [P2P Derivatives-Client](https://github.com/p2pderivatives/p2pderivatives-client)![stars](https://img.shields.io/github/stars/p2pderivatives/p2pderivatives-client.svg?style=social), Bitcoin DLC Protocol Implementation in Typescript
+* [P2P Derivatives DLC](https://github.com/p2pderivatives/dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/dlc.svg?style=social), Bitcoin DLC Protocol Implementation in Go
+* [Maia](https://github.com/comit-network/maia)![stars](https://img.shields.io/github/stars/comit-network/maia.svg?style=social), A library for CFDs on Bitcoin which uses DLCs
+* [DLC-Stack](https://github.com/DLC-link/dlc-stack)![stars](https://img.shields.io/github/stars/DLC-link/dlc-stack?style=social),  Contains projects for the Bitcoin Oracle and a headless DLC / BTC Wallet for DApps
+* [Schnorr related examples](https://github.com/yuntai/schnorr-examples)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social),Schnorr, BN, MuSig, discreet log contracts in Phyhton
 
 ## Applications 
 * [10101](https://github.com/get10101/10101), lightning and DLC wallet with trading derivatives
