@@ -43,13 +43,20 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s), Bitcoin Implementation in Scala 
 * [node-dlc](https://github.com/AtomicFinance/node-dlc), Bitcoin DLC Protocol in Node.js runtime
 * [ExFacto](https://github.com/ExFacto/exfacto), Bitcoin DLC Protocol Implementation in Exilir
-* [Javascript-dlc](https://github.com/AreaLayer/javascript-dlc), Javascript library for creating and managing Discreet Log Contracts (DLC)
+* [Javascript-dlc](https://github.com/AreaLayer/javascript-dlc), Javascript library for working with Discreet Log Contracts and Lighttning Network
+* [P2P Derivatives-Client](https://github.com/p2pderivatives/p2pderivatives-client), Bitcoin DLC Protocol Implementation in Typescript
+* [P2P Derivatives DLC](https://github.com/p2pderivatives/dlc), Bitcoin DLC Protocol Implementation in Go
+* [Maia](https://github.com/comit-network/maia), A library for CFDs on Bitcoin which uses DLCs
+* [DLC-Stack](https://github.com/DLC-link/dlc-stack),  Contains projects for the Bitcoin Oracle and a headless DLC / BTC Wallet for DApps
+* [Schnorr related examples](https://github.com/yuntai/schnorr-examples),Schnorr, BN, MuSig, discreet log contracts in Phyhton
 
 ## Applications 
-* [10101](https://github.com/get10101/10101), lightning and DLC wallet
-* [P2PDerivatives client ](https://github.com/p2pderivatives/p2pderivatives-client)
+* [10101](https://github.com/get10101/10101), lightning and DLC wallet with trading derivatives
+* [P2PDerivatives client ](https://github.com/p2pderivatives/p2pderivatives-client), Infrastructure for DLCs
 * [Itchy Sats](https://github.com/itchysats/itchysats), CFD trading on Bitcoin - non-custodial, peer-to-peer, Bitcoin only enabled by DLCs
-* [Atomic Finance](https://atomic.finance/)
+* [Atomic Finance](https://atomic.finance/), Yield on-chain with DLCs
+* [Lava](https://www.lava.xyz/),  Self custody with Bitcoin and DLCs
+* [Bitswap](https://github.com/Bitswap-BiFi), Automated Market Maker (AMM) on RGB Protocol and Lightning Network
 
 ## Oracles
 * [suredbits oracle explorer](https://oracle.suredbits.com/), 
