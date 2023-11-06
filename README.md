@@ -58,6 +58,8 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Atomic Finance](https://atomic.finance/), Yield on-chain with DLCs
 * [Lava](https://www.lava.xyz/),  Self custody with Bitcoin and DLCs
 * [Bitswap](https://github.com/Bitswap-BiFi),![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social) Automated Market Maker (AMM) on RGB Protocol and Lightning Network
+* [DLC Markets](https://github.com/dlc-markets), Oracle prices with DLCs
+* [Kruut](https://krutt.fi/), Hedge against Hype
 
 ## Oracles
 * [suredbits oracle explorer](https://oracle.suredbits.com/), 
@@ -65,7 +67,8 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [dlc-oracle-nodejs](https://github.com/mit-dci/dlc-oracle-nodejs)![stars](https://img.shields.io/github/stars/mit-dci/dlc-oracle-nodejs?style=social),  A library for making Discreet Log Contracts oracles in NodeJS 
 * [Sybils](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), an oracle implementation based on rust-dlc
 * [p2pderivatives-oracle](https://github.com/p2pderivatives/p2pderivatives-oracle)![stars](https://img.shields.io/github/stars/p2pderivatives/p2pderivatives-oracle?style=social), and oracle implementation for numerical event written in golang
-* [sibyls](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), oracle implementation for numeric discreet log contracts 
+* [sibyls](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), oracle implementation for numeric discreet log contracts
+* [DLC Markets](https://github.com/dlc-markets), oracle prices with DLCs
 
 ## Community 
 * [dlc-dev mailing list](https://mailmanlists.org/mailman/listinfo/dlc-dev)
