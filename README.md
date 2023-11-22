@@ -58,7 +58,6 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Atomic Finance](https://atomic.finance/), Yield on-chain with DLCs
 * [Lava](https://www.lava.xyz/),  Self custody with Bitcoin and DLCs
 * [Bitswap](https://github.com/Bitswap-BiFi),![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social) Automated Market Maker (AMM) on RGB Protocol and Lightning Network
-* [DLC Markets](https://github.com/dlc-markets), Oracle prices with DLCs
 * [Kruut](https://krutt.fi/), Hedge against Hype
 
 ## Oracles
