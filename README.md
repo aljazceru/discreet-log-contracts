@@ -68,7 +68,6 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Sybils](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), an oracle implementation based on rust-dlc
 * [p2pderivatives-oracle](https://github.com/p2pderivatives/p2pderivatives-oracle)![stars](https://img.shields.io/github/stars/p2pderivatives/p2pderivatives-oracle?style=social), and oracle implementation for numerical event written in golang
 * [sibyls](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), oracle implementation for numeric discreet log contracts
-* [DLC Markets](https://github.com/dlc-markets), oracle prices with DLCs
 
 ## Community 
 * [dlc-dev mailing list](https://mailmanlists.org/mailman/listinfo/dlc-dev)
