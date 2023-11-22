@@ -49,6 +49,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Maia](https://github.com/comit-network/maia)![stars](https://img.shields.io/github/stars/comit-network/maia.svg?style=social), A library for CFDs on Bitcoin which uses DLCs
 * [DLC-Stack](https://github.com/DLC-link/dlc-stack)![stars](https://img.shields.io/github/stars/DLC-link/dlc-stack?style=social),  Contains projects for the Bitcoin Oracle and a headless DLC / BTC Wallet for DApps
 * [Schnorr related examples](https://github.com/yuntai/schnorr-examples)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social),Schnorr, BN, MuSig, discreet log contracts in Phyhton
+* [Dart DLC](https://github.com/Horus-Org/dart-dlc)![stars](https://img.shields.io/github/stars/Horus-Org/dart-dlc?style=social), A Dart Library for DLCs
 
 ## Applications 
 * [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/stars/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
@@ -57,6 +58,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Atomic Finance](https://atomic.finance/), Yield on-chain with DLCs
 * [Lava](https://www.lava.xyz/),  Self custody with Bitcoin and DLCs
 * [Bitswap](https://github.com/Bitswap-BiFi),![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social) Automated Market Maker (AMM) on RGB Protocol and Lightning Network
+* [Kruut](https://krutt.fi/), Hedge against Hype
 
 ## Oracles
 * [suredbits oracle explorer](https://oracle.suredbits.com/), 
@@ -64,7 +66,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [dlc-oracle-nodejs](https://github.com/mit-dci/dlc-oracle-nodejs)![stars](https://img.shields.io/github/stars/mit-dci/dlc-oracle-nodejs?style=social),  A library for making Discreet Log Contracts oracles in NodeJS 
 * [Sybils](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), an oracle implementation based on rust-dlc
 * [p2pderivatives-oracle](https://github.com/p2pderivatives/p2pderivatives-oracle)![stars](https://img.shields.io/github/stars/p2pderivatives/p2pderivatives-oracle?style=social), and oracle implementation for numerical event written in golang
-* [sibyls](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), oracle implementation for numeric discreet log contracts 
+* [sibyls](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), oracle implementation for numeric discreet log contracts
 
 ## Community 
 * [dlc-dev mailing list](https://mailmanlists.org/mailman/listinfo/dlc-dev)
@@ -72,7 +74,11 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [DLC telegram group](https://t.me/BitcoinDLCs)
 
 
+## Contributors
 
+<a align="center" href="https://github.com/aljazceru/discreet-log-contracts/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aljazceru/discreet-log-contracts/" />
+</a>
 
 
 Want to explore what is happening in lightning ecosystem check out [Lightning Landscape](https://www.lightning-landscape.net/projects).
