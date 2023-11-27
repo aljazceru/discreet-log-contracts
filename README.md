@@ -77,7 +77,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 ## Contributors
 
 <a align="center" href="https://github.com/aljazceru/discreet-log-contracts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aljazceru/discreet-log-contracts/" />
+  <img src="https://contrib.rocks/image?repo=aljazceru/discreet-log-contracts/"/>
 </a>
 
 
