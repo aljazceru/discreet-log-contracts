@@ -66,9 +66,8 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [suredbits oracle explorer](https://oracle.suredbits.com/), 
 * [krystal bull](https://github.com/bitcoin-s/krystal-bull)![stars](https://img.shields.io/github/stars/bitcoin-s/krystal-bull?style=social), a full featured DLC Oracle
 * [dlc-oracle-nodejs](https://github.com/mit-dci/dlc-oracle-nodejs)![stars](https://img.shields.io/github/stars/mit-dci/dlc-oracle-nodejs?style=social),  A library for making Discreet Log Contracts oracles in NodeJS 
-* [Sybils](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), an oracle implementation based on rust-dlc
+* [sibyls](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), an oracle implementation for numerical events based on rust-dlc
 * [p2pderivatives-oracle](https://github.com/p2pderivatives/p2pderivatives-oracle)![stars](https://img.shields.io/github/stars/p2pderivatives/p2pderivatives-oracle?style=social), and oracle implementation for numerical event written in golang
-* [sibyls](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), oracle implementation for numeric discreet log contracts
 
 ## Community 
 * [dlc-dev mailing list](https://mailmanlists.org/mailman/listinfo/dlc-dev)
