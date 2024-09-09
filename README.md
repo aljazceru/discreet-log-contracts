@@ -51,6 +51,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [DLC-Stack](https://github.com/DLC-link/dlc-stack)![stars](https://img.shields.io/github/stars/DLC-link/dlc-stack?style=social),  Contains projects for the Bitcoin Oracle and a headless DLC / BTC Wallet for DApps
 * [Schnorr related examples](https://github.com/yuntai/schnorr-examples)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social),Schnorr, BN, MuSig, discreet log contracts in Phyhton
 * [Dart DLC](https://github.com/Horus-Org/dart-dlc)![stars](https://img.shields.io/github/stars/Horus-Org/dart-dlc?style=social), A Dart Library for DLCs
+* [Docker DLC](https://github.com/Horus-Org/docker-dlc/)![stars](https://img.shields.io/github/stars/Horus-Org/dart-dlc?style=social) -  Docker source for DLCs 
 
 ## Applications 
 * [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/stars/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
@@ -58,7 +59,6 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Itchy Sats](https://github.com/itchysats/itchysats)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social), CFD trading on Bitcoin - non-custodial, peer-to-peer, Bitcoin only enabled by DLCs
 * [Atomic Finance](https://atomic.finance/), Yield on-chain with DLCs
 * [Lava](https://www.lava.xyz/),  Self custody with Bitcoin and DLCs
-* [Bitswap](https://github.com/Bitswap-BiFi),![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social) Automated Market Maker (AMM) on RGB Protocol and Lightning Network
 * [Kruut](https://krutt.fi/), Hedge against Hype
 * [DLC Markets](https://dlcmarkets.com/) -  Trustless OTC derivatives trading 
 
