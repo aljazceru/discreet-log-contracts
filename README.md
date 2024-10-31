@@ -76,20 +76,22 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Lightning Dev Kit discord DLC chat](https://discord.gg/5AcknnMfBw)
 * [DLC telegram group](https://t.me/BitcoinDLCs)
 
+## Related Resources
+
+To explore other aspects of freedom tech ecosystem, check out these additional resource directories:
+- [pubkey.tech](https://pubkey.tech) - Pubky resources, libraries, tools and applications. Pubky is an open protocol for per-public-key backends for censorship resistant web applications
+- [Nostr.net](https://www.nostr.net) - A complete guide to Nostr (Notes and Other Stuff Transmitted by Relays), including projects, implementations, and resources.
+- [Ungovernable.tech](https://ungovernable.tech) - A curated collection of resources on encryption, privacy tools, and decentralized technologies.
+- [lightning-network.tech](https://www.lightning-network.tech/)  - A curated collection of essential tools, guides, and communities for Bitcoin Lightning Network node operators.
+
+## Contributing
+
+If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/aljazceru/discreet-log-contracts).
+
+This resource guide is maintained by [aljaz](https://disobey.dev/contact/). Your contributions help keep this information up-to-date and valuable.
 
 ## Contributors
 
 <a align="center" href="https://github.com/aljazceru/discreet-log-contracts/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=aljazceru/discreet-log-contracts"/>
 </a>
-
-
-Want to explore what is happening in lightning ecosystem check out [Lightning Landscape](https://www.lightning-landscape.net/projects).
-
-Wanna know what people are building on Nostr? [nostr.net](https://www.nostr.net) to the rescue.
-
-Interested in running your own lightning network node? [lightning-network.tech](https://www.lightning-network.tech/) has a list of useful resources.
- 
-If you want to submit a link please open a [PR](https://github.com/aljazceru/discreet-log-contracts)
-
-Wiki maintained by [@aaaljaz](https://twitter.com/aaaljaz) [aljaz@nostr](https://nostr.at/npub1aljazgxlpnpfp7n5sunlk3dvfp72456x6nezjw4sd850q879rxqsthg9jp)
