@@ -52,7 +52,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Schnorr related examples](https://github.com/yuntai/schnorr-examples)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social),Schnorr, BN, MuSig, discreet log contracts in Phyhton
 * [Dart DLC](https://github.com/Horus-Org/dart-dlc)![stars](https://img.shields.io/github/stars/Horus-Org/dart-dlc?style=social), A Dart Library for DLCs
 * [Docker DLC](https://github.com/Horus-Org/docker-dlc/)![stars](https://img.shields.io/github/stars/Horus-Org/docker-dlc?style=social) -  Docker source for DLCs
-* [DLC Dev Kit](https://www.dlcdevkit.com/) - Application tooling for dlc contracts
+* [DLC Dev Kit](https://github.com/bennyhodl/dlcdevkit)![stars](https://img.shields.io/github/stars/bennyhodl/dlcdevkit?style=social)  - Application tooling for dlc contracts
 
 ## Applications 
 * [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/stars/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
@@ -70,6 +70,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [sibyls](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), an oracle implementation for numerical events based on rust-dlc
 * [p2pderivatives-oracle](https://github.com/p2pderivatives/p2pderivatives-oracle)![stars](https://img.shields.io/github/stars/p2pderivatives/p2pderivatives-oracle?style=social), and oracle implementation for numerical event written in golang
 * [Cassandra (conduition.io oracle)](https://conduition.io/code/cassandra/)
+* [kormir](https://github.com/bennyhodl/kormir)![stars](https://img.shields.io/github/stars/bennyhodl/kormir?style=social), a basic DLC Oracle written in rust.
 
 ## Community 
 * [dlc-dev mailing list](https://mailmanlists.org/mailman/listinfo/dlc-dev)
