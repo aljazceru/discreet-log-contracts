@@ -84,6 +84,7 @@ To explore other aspects of freedom tech ecosystem, check out these additional r
 - [Nostr.net](https://www.nostr.net) - A complete guide to Nostr (Notes and Other Stuff Transmitted by Relays), including projects, implementations, and resources.
 - [Ungovernable.tech](https://ungovernable.tech) - A curated collection of resources on encryption, privacy tools, and decentralized technologies.
 - [lightning-network.tech](https://www.lightning-network.tech/)  - A curated collection of essential tools, guides, and communities for Bitcoin Lightning Network node operators.
+- [liquidnetwork.wiki](https://liquidnetwork.wiki) - A curated list of Liquid Network resources, libraries, tools and applications
 
 ## Contributing
 
