@@ -80,7 +80,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 ## Related Resources
 
 To explore other aspects of freedom tech ecosystem, check out these additional resource directories:
-- [pubkey.tech](https://pubkey.tech) - Pubky resources, libraries, tools and applications. Pubky is an open protocol for per-public-key backends for censorship resistant web applications
+- [pubky.tech](https://pubky.tech) - Pubky resources, libraries, tools and applications. Pubky is an open protocol for per-public-key backends for censorship resistant web applications
 - [Nostr.net](https://www.nostr.net) - A complete guide to Nostr (Notes and Other Stuff Transmitted by Relays), including projects, implementations, and resources.
 - [Ungovernable.tech](https://ungovernable.tech) - A curated collection of resources on encryption, privacy tools, and decentralized technologies.
 - [lightning-network.tech](https://www.lightning-network.tech/)  - A curated collection of essential tools, guides, and communities for Bitcoin Lightning Network node operators.
