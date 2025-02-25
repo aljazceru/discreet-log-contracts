@@ -19,6 +19,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Bitcoin Oracle Contracts: Discreet Log Contracts in Practice](https://ieeexplore.ieee.org/document/9805512)
 * [Oracle-based Conditional payments on Bitcoin](https://blog.lnmarkets.com/oracle-based-conditionnal-payment-on-bitcoin-2/)
 * [DLCVM: Generalized, Unboundedly Scalable Computation on Bitcoin](https://dlcvm.tiiny.site/)
+* [DLCtix: ticketed DLCs](https://github.com/conduition/dlctix) - Ticketed Discreet Log Contracts (DLCs) to enable instant buy-in for wager-like contracts on Bitcoin. 
 
 ## Talks and podcasts
 
