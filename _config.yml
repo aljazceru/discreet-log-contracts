@@ -4,3 +4,5 @@ plugins:
 
 show_downloads: false
 google_analytics: G-6DPY5RBB5L
+plausible_script_url: https://analytics.cypherpunk.cloud/js/script.js
+plausible: dlc.wiki
