@@ -54,6 +54,9 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Dart DLC](https://github.com/Horus-Org/dart-dlc)![stars](https://img.shields.io/github/stars/Horus-Org/dart-dlc?style=social), A Dart Library for DLCs
 * [Docker DLC](https://github.com/Horus-Org/docker-dlc/)![stars](https://img.shields.io/github/stars/Horus-Org/docker-dlc?style=social) -  Docker source for DLCs
 * [DLC Dev Kit](https://github.com/bennyhodl/dlcdevkit)![stars](https://img.shields.io/github/stars/bennyhodl/dlcdevkit?style=social)  - Application tooling for dlc contracts
+* [dlc-btc-lib](https://github.com/DLC-link/dlc-btc-lib)![stars](https://img.shields.io/github/stars/DLC-link/dlc-btc-lib?style=social), Library for interacting with DLC.Link smart contracts and the Bitcoin blockchain
+* [dlc-btc-website](https://github.com/DLC-link/dlc-btc-website)![stars](https://img.shields.io/github/stars/DLC-link/dlc-btc-website?style=social), Interface for interacting with DLC.Link smart contracts and the Bitcoin blockchain
+* [Taproot DLC Bridge](https://github.com/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts)![stars](https://img.shields.io/github/stars/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts?style=social), Trustless atomic swap bridge between Bitcoin and Fractal Bitcoin using Taproot-based DLCs
 
 ## Applications 
 * [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/stars/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
@@ -63,6 +66,8 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Lava](https://www.lava.xyz/),  Self custody with Bitcoin and DLCs
 * [Kruut](https://krutt.fi/), Hedge against Hype
 * [DLC Markets](https://dlcmarkets.com/) -  Trustless OTC derivatives trading 
+* [Sovereign Citadel Terminal](https://github.com/hamzajapan/Sovereign-Citadel-Terminal)![stars](https://img.shields.io/github/stars/hamzajapan/Sovereign-Citadel-Terminal?style=social), Bitcoin-native financial OS with non-custodial DLC trading and AI risk agents
+* [BlockOracle BTC](https://github.com/barboss2000/blockoracle-btc)![stars](https://img.shields.io/github/stars/barboss2000/blockoracle-btc?style=social), Decentralized prediction game on Bitcoin L1 using DLCs and Taproot
 
 ## Oracles
 * [suredbits oracle explorer](https://oracle.suredbits.com/), 
@@ -73,6 +78,8 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Cassandra (conduition.io oracle)](https://conduition.io/code/cassandra/)
 * [kormir](https://github.com/bennyhodl/kormir)![stars](https://img.shields.io/github/stars/bennyhodl/kormir.svg?style=social), a basic DLC Oracle written in rust.
 * [tee8z/noaa-oracle](https://github.com/tee8z/noaa-oracle) - NOAA data oracle, queryable from browser and can attest to events for a Bitcoin DLC in dlctix style
+* [Pythia](https://github.com/dlc-markets/pythia)![stars](https://img.shields.io/github/stars/dlc-markets/pythia?style=social), Rust implementation of p2p-derivative-oracle for DLC trading
+* [Mycelia Signal](https://github.com/jonathanbulkeley/Mycelia-Signal-Sovereign-Oracle)![stars](https://img.shields.io/github/stars/jonathanbulkeley/Mycelia-Signal-Sovereign-Oracle?style=social), Sovereign oracle protocol with DLC attestations over Lightning sats and USDC on Base
 
 ## Community 
 * [dlc-dev mailing list](https://mailmanlists.org/mailman/listinfo/dlc-dev)
