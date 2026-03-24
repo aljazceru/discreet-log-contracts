@@ -49,13 +49,16 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [P2P Derivatives-Client](https://github.com/p2pderivatives/p2pderivatives-client)![stars](https://img.shields.io/github/stars/p2pderivatives/p2pderivatives-client.svg?style=social), Bitcoin DLC Protocol Implementation in Typescript
 * [P2P Derivatives DLC](https://github.com/p2pderivatives/dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/dlc.svg?style=social), Bitcoin DLC Protocol Implementation in Go
 * [Maia](https://github.com/comit-network/maia)![stars](https://img.shields.io/github/stars/comit-network/maia.svg?style=social), A library for CFDs on Bitcoin which uses DLCs
-* [DLC-Stack](https://github.com/DLC-link/dlc-stack)![stars](https://img.shields.io/github/stars/DLC-link/dlc-stack?style=social),  Contains projects for the Bitcoin Oracle and a headless DLC / BTC Wallet for DApps
 * [Schnorr related examples](https://github.com/yuntai/schnorr-examples)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social),Schnorr, BN, MuSig, discreet log contracts in Phyhton
 * [Dart DLC](https://github.com/Horus-Org/dart-dlc)![stars](https://img.shields.io/github/stars/Horus-Org/dart-dlc?style=social), A Dart Library for DLCs
 * [Docker DLC](https://github.com/Horus-Org/docker-dlc/)![stars](https://img.shields.io/github/stars/Horus-Org/docker-dlc?style=social) -  Docker source for DLCs
 * [DLC Dev Kit](https://github.com/bennyhodl/dlcdevkit)![stars](https://img.shields.io/github/stars/bennyhodl/dlcdevkit?style=social)  - Application tooling for dlc contracts
 * [dlc-btc-lib](https://github.com/DLC-link/dlc-btc-lib)![stars](https://img.shields.io/github/stars/DLC-link/dlc-btc-lib?style=social), Library for interacting with DLC.Link smart contracts and the Bitcoin blockchain
 * [dlc-btc-website](https://github.com/DLC-link/dlc-btc-website)![stars](https://img.shields.io/github/stars/DLC-link/dlc-btc-website?style=social), Interface for interacting with DLC.Link smart contracts and the Bitcoin blockchain
+* [shared-attestor-configuration](https://github.com/DLC-link/shared-attestor-configuration)![stars](https://img.shields.io/github/stars/DLC-link/shared-attestor-configuration?style=social), Shared attestor configuration for the DLC.Link network
+* [dlc-solidity](https://github.com/DLC-link/dlc-solidity)![stars](https://img.shields.io/github/stars/DLC-link/dlc-solidity?style=social), EVM compatible smart contracts and examples for the DLC.Link system
+* [cbtc-lib](https://github.com/DLC-link/cbtc-lib)![stars](https://img.shields.io/github/stars/DLC-link/cbtc-lib?style=social), A library of helper functions to Mint, Burn, and Transfer CBTC tokens on the Canton Network
+* [canton-lib](https://github.com/DLC-link/canton-lib)![stars](https://img.shields.io/github/stars/DLC-link/canton-lib?style=social), Public Canton related Rust library
 * [Taproot DLC Bridge](https://github.com/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts)![stars](https://img.shields.io/github/stars/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts?style=social), Trustless atomic swap bridge between Bitcoin and Fractal Bitcoin using Taproot-based DLCs
 
 ## Applications 
