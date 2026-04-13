@@ -38,6 +38,8 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [dlc-specs](https://github.com/discreetlogcontracts/dlcspecs)
 * [whitepaper](https://adiabat.github.io/dlc.pdf)
 
+- [Lightning-Lending](https://github.com/PrivAtlas/Lightning-Lending)![stars](https://img.shields.io/github/stars/PrivAtlas/Lightning-Lending.svg?style=social) - Open/close channel on Lightning Network using Nostr and DLCs
+
 ## Implementations 
 * [NDLC](https://github.com/dgarage/NDLC)![stars](https://img.shields.io/github/stars/dgarage/NDLC.svg?style=social). DLC implementation by Nicolas Dorier
 * [rust-dlc](https://github.com/p2pderivatives/rust-dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/rust-dlc?style=social), Rust library for working with Discreet Log Contracts 
@@ -61,6 +63,8 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [canton-lib](https://github.com/DLC-link/canton-lib)![stars](https://img.shields.io/github/stars/DLC-link/canton-lib?style=social), Public Canton related Rust library
 * [Taproot DLC Bridge](https://github.com/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts)![stars](https://img.shields.io/github/stars/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts?style=social), Trustless atomic swap bridge between Bitcoin and Fractal Bitcoin using Taproot-based DLCs
 
+- [sibyls](https://github.com/briefgaming/sibyls) - oracle implementation for numeric discreet log contracts
+
 ## Applications 
 * [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/stars/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
 * [P2PDerivatives client ](https://github.com/p2pderivatives/p2pderivatives-client)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social), Infrastructure for DLCs
@@ -71,6 +75,8 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [DLC Markets](https://dlcmarkets.com/) -  Trustless OTC derivatives trading 
 * [Sovereign Citadel Terminal](https://github.com/hamzajapan/Sovereign-Citadel-Terminal)![stars](https://img.shields.io/github/stars/hamzajapan/Sovereign-Citadel-Terminal?style=social), Bitcoin-native financial OS with non-custodial DLC trading and AI risk agents
 * [BlockOracle BTC](https://github.com/barboss2000/blockoracle-btc)![stars](https://img.shields.io/github/stars/barboss2000/blockoracle-btc?style=social), Decentralized prediction game on Bitcoin L1 using DLCs and Taproot
+
+- [p2pFiat](https://github.com/p2pfiat/p2pFiat)![stars](https://img.shields.io/github/stars/p2pfiat/p2pFiat.svg?style=social) - p2p fiat aims to build trustless p2p btc collateralised fiat stability over the Lightning Network
 
 ## Oracles
 * [suredbits oracle explorer](https://oracle.suredbits.com/), 
@@ -99,6 +105,21 @@ To explore other aspects of the Bitcoin and freedom tech ecosystem, check out th
 - [ungovernable.tech](https://ungovernable.tech) - A collection of resources on encryption, privacy tools, and decentralized technologies
 - [lightning-network.tech](https://www.lightning-network.tech/)  - Essential tools, guides, and communities for Bitcoin Lightning Network node operators.
 - [ark-protocol.com](https://ark-protocol.com) - A directory of Ark protocol resources, libraries, tools and applications
+
+
+<!-- New additions by Borg [Daemon] - 2026-04-13 -->
+- [javascript-dlc](https://github.com/PrivAtlas/javascript-dlc)![stars](https://img.shields.io/github/stars/PrivAtlas/javascript-dlc.svg?style=social) - Javascript library for working with Discreet Log Contracts and Lightning Network
+- [dlc-fast-prototyping](https://github.com/alfonzii/dlc-fast-prototyping)![stars](https://img.shields.io/github/stars/alfonzii/dlc-fast-prototyping.svg?style=social) - Lightweight framework for fast prototyping and benchmarking of Discreet Log Contracts (DLCs) on Bitcoin
+- [dlc-intro](https://github.com/fiksn/dlc-intro)![stars](https://img.shields.io/github/stars/fiksn/dlc-intro.svg?style=social) - A gentle introduction to Discreet Log Contracts (DLCs) on Bitcoin
+- [two-round-dlc](https://github.com/LLFourn/two-round-dlc)![stars](https://img.shields.io/github/stars/LLFourn/two-round-dlc.svg?style=social) - Place for my short paper about two-round Discreet Log Contracts  i.e. "How to make a Prediction Market on Twitter with Bitcoin"
+- [cre-dlc-oracle](https://github.com/thodges-gh/cre-dlc-oracle) - 
+- [tee-dlc](https://github.com/Fran6o/tee-dlc) - Trustless and private Discreet Log Contracts powered by decentralized Trusted Execution Environments
+- [_dlc_plaza_wallet](https://github.com/sziller/_dlc_plaza_wallet) - Open source wallet application Discreet Log Contracts
+- [dlc-oracle](https://github.com/tirith-tech/dlc-oracle)![stars](https://img.shields.io/github/stars/tirith-tech/dlc-oracle.svg?style=social) - Discreet Log Contract Oracle
+- [lnd_dlc](https://github.com/D33r-Gee/lnd_dlc)![stars](https://img.shields.io/github/stars/D33r-Gee/lnd_dlc.svg?style=social) - Integration of MIT-DCI Discreet Log Contracts into LND
+- [dlc](https://github.com/jesseposner/dlc) - Discreet Log Contracts
+- [dlc-oracle-go-samples](https://github.com/mit-dci/dlc-oracle-go-samples)![stars](https://img.shields.io/github/stars/mit-dci/dlc-oracle-go-samples.svg?style=social) - Samples of using the Discreet Log Contracts Oracle library
+- [bitcoin-data-oracle](https://github.com/Arowolokehinde/bitcoin-data-oracle) - The Weather Data Oracle Contract is designed to handle IoT device registration, data submission, and reward distribution. It ensures data accuracy through consensus mechanisms and incentivizes participants with rewards
 
 ## Contributing
 
