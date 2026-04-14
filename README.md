@@ -38,14 +38,16 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [dlc-specs](https://github.com/discreetlogcontracts/dlcspecs)
 * [whitepaper](https://adiabat.github.io/dlc.pdf)
 
+
 ## Implementations 
+* [dlc-fast-prototyping](https://github.com/alfonzii/dlc-fast-prototyping)![stars](https://img.shields.io/github/stars/alfonzii/dlc-fast-prototyping.svg?style=social) - Lightweight framework for fast prototyping and benchmarking of Discreet Log Contracts (DLCs) on Bitcoin
 * [NDLC](https://github.com/dgarage/NDLC)![stars](https://img.shields.io/github/stars/dgarage/NDLC.svg?style=social). DLC implementation by Nicolas Dorier
 * [rust-dlc](https://github.com/p2pderivatives/rust-dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/rust-dlc?style=social), Rust library for working with Discreet Log Contracts 
 * [cfd-dlc](https://github.com/p2pderivatives/cfd-dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/cfd-dlc?style=social), Library for creating and managing Discreet Log Contracts (DLC) 
 * [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s)![stars](https://img.shields.io/github/stars/bitcoin-s/bitcoin-s.svg?style=social), Bitcoin Implementation in Scala 
 * [node-dlc](https://github.com/AtomicFinance/node-dlc)![stars](https://img.shields.io/github/stars/AtomicFinance/node-dlc.svg?style=social), Bitcoin DLC Protocol in Node.js runtime
 * [ExFacto](https://github.com/ExFacto/exfacto)![stars](https://img.shields.io/github/stars/ExFacto/exfacto.svg?style=social), Bitcoin DLC Protocol Implementation in Exilir
-* [Javascript-dlc](https://github.com/AreaLayer/javascript-dlc)![stars](https://img.shields.io/github/stars/AreaLayer/javascript-dlc.svg?style=social), Javascript library for working with Discreet Log Contracts and Lighttning Network
+* [javascript-dlc](https://github.com/PrivAtlas/javascript-dlc)![stars](https://img.shields.io/github/stars/PrivAtlas/javascript-dlc.svg?style=social) - Javascript library for working with Discreet Log Contracts and Lightning Network
 * [P2P Derivatives-Client](https://github.com/p2pderivatives/p2pderivatives-client)![stars](https://img.shields.io/github/stars/p2pderivatives/p2pderivatives-client.svg?style=social), Bitcoin DLC Protocol Implementation in Typescript
 * [P2P Derivatives DLC](https://github.com/p2pderivatives/dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/dlc.svg?style=social), Bitcoin DLC Protocol Implementation in Go
 * [Maia](https://github.com/comit-network/maia)![stars](https://img.shields.io/github/stars/comit-network/maia.svg?style=social), A library for CFDs on Bitcoin which uses DLCs
@@ -60,6 +62,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [cbtc-lib](https://github.com/DLC-link/cbtc-lib)![stars](https://img.shields.io/github/stars/DLC-link/cbtc-lib?style=social), A library of helper functions to Mint, Burn, and Transfer CBTC tokens on the Canton Network
 * [canton-lib](https://github.com/DLC-link/canton-lib)![stars](https://img.shields.io/github/stars/DLC-link/canton-lib?style=social), Public Canton related Rust library
 * [Taproot DLC Bridge](https://github.com/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts)![stars](https://img.shields.io/github/stars/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts?style=social), Trustless atomic swap bridge between Bitcoin and Fractal Bitcoin using Taproot-based DLCs
+- [sibyls](https://github.com/briefgaming/sibyls) - oracle implementation for numeric discreet log contracts
 
 ## Applications 
 * [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/stars/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
@@ -71,6 +74,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [DLC Markets](https://dlcmarkets.com/) -  Trustless OTC derivatives trading 
 * [Sovereign Citadel Terminal](https://github.com/hamzajapan/Sovereign-Citadel-Terminal)![stars](https://img.shields.io/github/stars/hamzajapan/Sovereign-Citadel-Terminal?style=social), Bitcoin-native financial OS with non-custodial DLC trading and AI risk agents
 * [BlockOracle BTC](https://github.com/barboss2000/blockoracle-btc)![stars](https://img.shields.io/github/stars/barboss2000/blockoracle-btc?style=social), Decentralized prediction game on Bitcoin L1 using DLCs and Taproot
+
 
 ## Oracles
 * [suredbits oracle explorer](https://oracle.suredbits.com/), 
@@ -99,6 +103,7 @@ To explore other aspects of the Bitcoin and freedom tech ecosystem, check out th
 - [ungovernable.tech](https://ungovernable.tech) - A collection of resources on encryption, privacy tools, and decentralized technologies
 - [lightning-network.tech](https://www.lightning-network.tech/)  - Essential tools, guides, and communities for Bitcoin Lightning Network node operators.
 - [ark-protocol.com](https://ark-protocol.com) - A directory of Ark protocol resources, libraries, tools and applications
+
 
 ## Contributing
 
