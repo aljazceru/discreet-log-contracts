@@ -39,7 +39,10 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [whitepaper](https://adiabat.github.io/dlc.pdf)
 
 
-## Implementations 
+## Implementations
+
+**Books & Documentation**
+* [lnbook/lnbook](https://github.com/lnbook/lnbook)![stars](https://img.shields.io/github/stars/lnbook/lnbook.svg?style=social) - Mastering the Lightning Network (LN)
 * [dlc-fast-prototyping](https://github.com/alfonzii/dlc-fast-prototyping)![stars](https://img.shields.io/github/stars/alfonzii/dlc-fast-prototyping.svg?style=social) - Lightweight framework for fast prototyping and benchmarking of Discreet Log Contracts (DLCs) on Bitcoin
 * [NDLC](https://github.com/dgarage/NDLC)![stars](https://img.shields.io/github/stars/dgarage/NDLC.svg?style=social). DLC implementation by Nicolas Dorier
 * [rust-dlc](https://github.com/p2pderivatives/rust-dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/rust-dlc?style=social), Rust library for working with Discreet Log Contracts 
