@@ -64,6 +64,18 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Taproot DLC Bridge](https://github.com/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts)![stars](https://img.shields.io/github/stars/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts?style=social), Trustless atomic swap bridge between Bitcoin and Fractal Bitcoin using Taproot-based DLCs
 - [sibyls](https://github.com/briefgaming/sibyls) - oracle implementation for numeric discreet log contracts
 
+
+* [rust-bitcoin-coin-selection](https://github.com/p2pderivatives/rust-bitcoin-coin-selection)![stars](https://img.shields.io/github/stars/p2pderivatives/rust-bitcoin-coin-selection.svg?style=social) - Rust library for Bitcoin coin selection
+* [bitcoin-abstraction-layer](https://github.com/Blockchainslip44/bitcoin-abstraction-layer)![stars](https://img.shields.io/github/stars/Blockchainslip44/bitcoin-abstraction-layer.svg?style=social) - Bitcoin abstraction layer for multiple cryptocurrencies
+* [cfd-js](https://github.com/Blockchainslip44/cfd-js)![stars](https://img.shields.io/github/stars/Blockchainslip44/cfd-js.svg?style=social) - CFD (Contract for Difference) library in JavaScript
+* [musig2](https://github.com/conduition/musig2)![stars](https://img.shields.io/github/stars/conduition/musig2.svg?style=social) - Flexible Rust implementation of the MuSig2 multisignature protocol
+* [slh-experiments](https://github.com/conduition/slh-experiments)![stars](https://img.shields.io/github/stars/conduition/slh-experiments.svg?style=social) - SLH (Scriptless Labs) experiments for DLCs
+* [cfd-js-wasm](https://github.com/cfd-js/cfd-js-wasm)![stars](https://img.shields.io/github/stars/cfd-js/cfd-js-wasm.svg?style=social) - CFD library compiled to WebAssembly
+* [atomic-utils](https://github.com/DLC-link/atomic-utils)![stars](https://img.shields.io/github/stars/DLC-link/atomic-utils.svg?style=social) - Atomic utilities for DLC transactions
+* [cbtc-transfer-public-docs](https://github.com/DLC-link/cbtc-transfer-public-docs)![stars](https://img.shields.io/github/stars/DLC-link/cbtc-transfer-public-docs.svg?style=social) - public documentation for CBTC transfers
+* [api-collections-public](https://github.com/DLC-link/api-collections-public)![stars](https://img.shields.io/github/stars/DLC-link/api-collections-public.svg?style=social) - public API collections
+* [cantcost](https://github.com/DLC-link/cantcost)![stars](https://img.shields.io/github/stars/DLC-link/cantcost.svg?style=social) - Canton cost calculation tools
+* [cbtc-por-tools](https://github.com/DLC-link/cbtc-por-tools)![stars](https://img.shields.io/github/stars/DLC-link/cbtc-por-tools.svg?style=social) - CBTC proof-of-reserve tools
 ## Applications 
 * [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/stars/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
 * [P2PDerivatives client ](https://github.com/p2pderivatives/p2pderivatives-client)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social), Infrastructure for DLCs
