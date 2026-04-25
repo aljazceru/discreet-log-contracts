@@ -38,6 +38,8 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [dlc-specs](https://github.com/discreetlogcontracts/dlcspecs)
 * [whitepaper](https://adiabat.github.io/dlc.pdf)
 
+* [musig2](https://github.com/conduition/musig2)![stars](https://img.shields.io/github/stars/conduition/musig2.svg?style=social) - Flexible Rust implementation of the MuSig2 multisignature protocol
+* [rust-bitcoin-coin-selection](https://github.com/p2pderivatives/rust-bitcoin-coin-selection)![stars](https://img.shields.io/github/stars/p2pderivatives/rust-bitcoin-coin-selection.svg?style=social) - Rust library for Bitcoin coin selection
 
 ## Implementations 
 * [dlc-fast-prototyping](https://github.com/alfonzii/dlc-fast-prototyping)![stars](https://img.shields.io/github/stars/alfonzii/dlc-fast-prototyping.svg?style=social) - Lightweight framework for fast prototyping and benchmarking of Discreet Log Contracts (DLCs) on Bitcoin
@@ -64,6 +66,16 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [Taproot DLC Bridge](https://github.com/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts)![stars](https://img.shields.io/github/stars/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts?style=social), Trustless atomic swap bridge between Bitcoin and Fractal Bitcoin using Taproot-based DLCs
 - [sibyls](https://github.com/briefgaming/sibyls) - oracle implementation for numeric discreet log contracts
 
+
+* [bitcoin-abstraction-layer](https://github.com/AtomicFinance/bitcoin-abstraction-layer)![stars](https://img.shields.io/github/stars/AtomicFinance/bitcoin-abstraction-layer.svg?style=social) - Bitcoin abstraction layer for multiple cryptocurrencies
+* [cfd-js](https://github.com/p2pderivatives/cfd-js)![stars](https://img.shields.io/github/stars/p2pderivatives/cfd-js.svg?style=social) - CFD (Contract for Difference) library in JavaScript
+* [cfd-js-wasm](https://github.com/p2pderivatives/cfd-js-wasm)![stars](https://img.shields.io/github/stars/p2pderivatives/cfd-js-wasm.svg?style=social) - CFD library compiled to WebAssembly
+* [atomic-utils](https://github.com/AtomicFinance/atomic-utils)![stars](https://img.shields.io/github/stars/AtomicFinance/atomic-utils.svg?style=social) - Atomic utilities for DLC transactions
+* [slh-experiments](https://github.com/conduition/slh-experiments)![stars](https://img.shields.io/github/stars/conduition/slh-experiments.svg?style=social) - SLH (Scriptless Labs) experiments for DLCs
+* [cantcost](https://github.com/DLC-link/cantcost)![stars](https://img.shields.io/github/stars/DLC-link/cantcost.svg?style=social) - Canton cost calculation tools
+* [api-collections-public](https://github.com/DLC-link/api-collections-public)![stars](https://img.shields.io/github/stars/DLC-link/api-collections-public.svg?style=social) - public API collections
+* [cbtc-por-tools](https://github.com/DLC-link/cbtc-por-tools)![stars](https://img.shields.io/github/stars/DLC-link/cbtc-por-tools.svg?style=social) - CBTC proof-of-reserve tools
+
 ## Applications 
 * [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/stars/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
 * [P2PDerivatives client ](https://github.com/p2pderivatives/p2pderivatives-client)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social), Infrastructure for DLCs
@@ -74,7 +86,6 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [DLC Markets](https://dlcmarkets.com/) -  Trustless OTC derivatives trading 
 * [Sovereign Citadel Terminal](https://github.com/hamzajapan/Sovereign-Citadel-Terminal)![stars](https://img.shields.io/github/stars/hamzajapan/Sovereign-Citadel-Terminal?style=social), Bitcoin-native financial OS with non-custodial DLC trading and AI risk agents
 * [BlockOracle BTC](https://github.com/barboss2000/blockoracle-btc)![stars](https://img.shields.io/github/stars/barboss2000/blockoracle-btc?style=social), Decentralized prediction game on Bitcoin L1 using DLCs and Taproot
-
 
 ## Oracles
 * [suredbits oracle explorer](https://oracle.suredbits.com/), 
@@ -103,7 +114,6 @@ To explore other aspects of the Bitcoin and freedom tech ecosystem, check out th
 - [ungovernable.tech](https://ungovernable.tech) - A collection of resources on encryption, privacy tools, and decentralized technologies
 - [lightning-network.tech](https://www.lightning-network.tech/)  - Essential tools, guides, and communities for Bitcoin Lightning Network node operators.
 - [ark-protocol.com](https://ark-protocol.com) - A directory of Ark protocol resources, libraries, tools and applications
-
 
 ## Contributing
 
