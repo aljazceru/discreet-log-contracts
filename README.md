@@ -116,3 +116,26 @@ This directory is maintained by [aljaz](https://disobey.dev/contact/). Your cont
 <a align="center" href="https://github.com/aljazceru/discreet-log-contracts/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=aljazceru/discreet-log-contracts"/>
 </a>
+- [zed-daml-lsp](https://github.comDLC-link/zed-daml-lsp) - No description ⭐ 0
+- [llama.cpp](https://github.comdgarage/llama.cpp) - LLM inference in C/C++ ⭐ 2
+- [cfd-dlc-js](https://github.comAtomicFinance/cfd-dlc-js) - Javascript wrapper for the cfd-dlc library ⭐ 0
+- [cfd-js](https://github.comAtomicFinance/cfd-js) - Crypto Finance Development Kit for JavaScript ⭐ 0
+- [bitcoin-networks](https://github.comAtomicFinance/bitcoin-networks) - bitcoinjs-lib networks extension ⭐ 0
+- [bips](https://github.comconduition/bips) - Bitcoin Improvement Proposals ⭐ 0
+- [conduition.io](https://github.comconduition/conduition.io) - The humble blog of a wandering crypto nerd. ⭐ 15
+- [expo-wasm-demo](https://github.comconduition/expo-wasm-demo) - Using Rust's WebAssembly support to integrate with Expo/React-Native. ⭐ 21
+- [slhvk](https://github.comconduition/slhvk) - SLH-DSA (SPHINCS+) using Vulkan Compute Shaders for Maximum Speeeed  ⭐ 4
+- [libvkomp](https://github.comconduition/libvkomp) - Accelerate your code with slim and fast Vulkan compute shaders. ⭐ 0
+- [stellaris-dlc-unlocker](https://github.comseuyh/stellaris-dlc-unlocker) - Stellaris DLC Unlocker - tool to automatically unlock all dlc in Stellaris completely free ⭐ 854
+- [CreamInstaller_CHS](https://github.comlengkonglovelife/CreamInstaller_CHS) - CreamInstaller 中文版 ⭐ 179
+- [Space_Engineers_DLC_unlocker](https://github.comLamer87/Space_Engineers_DLC_unlocker) - Space Engineers DLC Unlocker : very easy! ⭐ 162
+- [Crusader-Kings-3-DLC](https://github.comRussifiers-for-Humans/Crusader-Kings-3-DLC) - DLC for Crusader Kings 3 ⭐ 71
+- [A7-DlcMerger](https://github.comArgent77/A7-DlcMerger) - This mod allows you to merge DLC archives into Enhanced Edition games. ⭐ 65
+- [Stellaris-DLC](https://github.comRussifiers-for-Humans/Stellaris-DLC) - DLC для Stellaris ⭐ 43
+- [klayoracle-monorepo](https://github.comKlayOracle/klayoracle-monorepo) - All core packages that make up the DigiOracle protocol. ⭐ 7
+- [iot-oracle-gateway](https://github.comstuchain/iot-oracle-gateway) - End-to-end IoT oracle: Python simulator publishes over MQTT; oracle aggregates, detects anomalies (EWMA/z-score), anchors hashes on-chain (Solidity/Hardhat); Streamlit dashboard for metrics. ⭐ 0
+- [n8n-nodes-pyth](https://github.comVelocity-BPA/n8n-nodes-pyth) - A complete n8n community node for Pyth Network oracle - access real-time price feeds, push on-chain updates, query historical data, and integrate DeFi workflows across 20+ blockchains. ⭐ 0
+- [on-demand](https://github.comorcfax/on-demand) - Pay-per-use blockchain oracle price feeds on Cardano via Subbit.xyz L2 payment channels ⭐ 0
+- [prediction-market-contract-main-solana](https://github.com0xRustPro/prediction-market-contract-main-solana) - A Prediction Market Contract is a smart contract that lets users bet on future events, collects their stakes, verifies the outcome via an oracle, and automatically pays out winners, all trustlessly and on-chain. ⭐ 129
+- [quillshield_skills](https://github.comquillai-network/quillshield_skills) - Structured skills for smart contract security audits. Infers state invariants, detects semantic guard gaps, models flash loan + oracle attack chains, simulates adversarial exploits, and scores findings. ⭐ 99
+- [Solana-Casino-Coinflip-Game](https://github.comjustFiveDev/Solana-Casino-Coinflip-Game) - Solana coinflip casino game.  Solana casino Coinflip pvp game. Coinflip frontend & backend. Coinflip smart contract. Result using Oracle VRF inside Solana Casino. ⭐ 67
