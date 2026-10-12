@@ -63,6 +63,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [canton-lib](https://github.com/DLC-link/canton-lib)![stars](https://img.shields.io/github/stars/DLC-link/canton-lib?style=social), Public Canton related Rust library
 * [Taproot DLC Bridge](https://github.com/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts)![stars](https://img.shields.io/github/stars/Avecci-Claussen/Taproot-based_Discreet_Log_Contracts?style=social), Trustless atomic swap bridge between Bitcoin and Fractal Bitcoin using Taproot-based DLCs
 - [sibyls](https://github.com/briefgaming/sibyls) - oracle implementation for numeric discreet log contracts
+- [bitsafe-token-lib](https://github.com/DLC-link/bitsafe-token-lib)![stars](https://img.shields.io/github/stars/DLC-link/bitsafe-token-lib.svg?style=social) - Rust library to interact with BitSafe operated tokens on the Canton Network programmatically.
 
 ## Applications 
 * [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/stars/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
