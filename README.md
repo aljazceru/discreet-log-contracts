@@ -11,6 +11,7 @@ Read [the whitepaper](https://adiabat.github.io/dlc.pdf) first if you're comfort
 This list tracks specs, libraries, oracle implementations, and tools in the DLC ecosystem.
 
 ## Reading
+_Last verified: 2026-10-14._
 * [Introduction to Discreet log contracts](https://github.com/discreetlogcontracts/dlcspecs/blob/master/Introduction.md)
 * [Discreet log contracts @ MIT](https://dci.mit.edu/smart-contracts)
 * [Discreet Log Contracts: invisible smart contracts on the Bitcoin blockchain](https://medium.com/@gertjaap/discreet-log-contracts-invisible-smart-contracts-on-the-bitcoin-blockchain-cc8afbdbf0db)
@@ -32,6 +33,7 @@ This list tracks specs, libraries, oracle implementations, and tools in the DLC 
 * [DLCtix: ticketed DLCs](https://github.com/conduition/dlctix) - Ticketed Discreet Log Contracts (DLCs) to enable instant buy-in for wager-like contracts on Bitcoin. 
 
 ## Talks and podcasts
+_Last verified: 2026-10-14._
 
 * [Tadge Dryja at Dev++ 2017](https://www.youtube.com/watch?v=FU-rA5dkTHI)
 * [Tadge Dryja on MIT OpenCourseWare](https://www.youtube.com/watch?v=P6AX8KdXAts)
@@ -45,11 +47,13 @@ This list tracks specs, libraries, oracle implementations, and tools in the DLC 
 * [Shehzan Maredia on Building Lava, Bitcoin-Native Borrowing, and Improving Self-Custody UX](https://www.stacksats.how/podcasts/e107-shehzan-maredia-on-building-lava-bitcoin-native-borrowing-and-improving-self-custody-ux) 
 
 ## Specs
+_Last verified: 2026-10-14._
 * [dlc-specs](https://github.com/discreetlogcontracts/dlcspecs)
 * [whitepaper](https://adiabat.github.io/dlc.pdf)
 
 
 ## Implementations 
+_Last verified: 2026-10-14._
 * [dlc-fast-prototyping](https://github.com/alfonzii/dlc-fast-prototyping)![stars](https://img.shields.io/github/stars/alfonzii/dlc-fast-prototyping.svg?style=social) - Lightweight framework for fast prototyping and benchmarking of Discreet Log Contracts (DLCs) on Bitcoin
 * [NDLC](https://github.com/dgarage/NDLC)![stars](https://img.shields.io/github/stars/dgarage/NDLC.svg?style=social). DLC implementation by Nicolas Dorier
 * [rust-dlc](https://github.com/p2pderivatives/rust-dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/rust-dlc?style=social), Rust library for working with Discreet Log Contracts 
@@ -75,6 +79,7 @@ This list tracks specs, libraries, oracle implementations, and tools in the DLC 
 - [sibyls](https://github.com/briefgaming/sibyls) - oracle implementation for numeric discreet log contracts
 
 ## Applications 
+_Last verified: 2026-10-14._
 * [10101](https://github.com/get10101/10101)![stars](https://img.shields.io/github/stars/get10101/10101?style=social), lightning and DLC wallet with trading derivatives
 * [P2PDerivatives client ](https://github.com/p2pderivatives/p2pderivatives-client)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social), Infrastructure for DLCs
 * [Itchy Sats](https://github.com/itchysats/itchysats)![stars](https://img.shields.io/github/stars/yuntai/schnorr-examples?style=social), CFD trading on Bitcoin - non-custodial, peer-to-peer, Bitcoin only enabled by DLCs
@@ -88,6 +93,7 @@ This list tracks specs, libraries, oracle implementations, and tools in the DLC 
 
 
 ## Oracles
+_Last verified: 2026-10-14._
 * [suredbits oracle explorer](https://oracle.suredbits.com/), 
 * [krystal bull](https://github.com/bitcoin-s/krystal-bull)![stars](https://img.shields.io/github/stars/bitcoin-s/krystal-bull?style=social), a full featured DLC Oracle
 * [dlc-oracle-nodejs](https://github.com/mit-dci/dlc-oracle-nodejs)![stars](https://img.shields.io/github/stars/mit-dci/dlc-oracle-nodejs?style=social),  A library for making Discreet Log Contracts oracles in NodeJS 
@@ -101,11 +107,13 @@ This list tracks specs, libraries, oracle implementations, and tools in the DLC 
 * [pow-attest](https://attest.powforge.dev), GitHub event oracle (PR-merged / issue-closed) emitting BIP-340 Schnorr attestations; `/announcement` endpoint exposes R-point + outcome_hash for DLC CET adaptor signing; PoW-gated, no account; oracle pubkey `2bc78390c94d8bbb96ac3e6940462ba2812418d871e701c1a845fdb1dfd4a0e5`
 
 ## Community 
+_Last verified: 2026-10-14._
 * [dlc-dev mailing list](https://mailmanlists.org/mailman/listinfo/dlc-dev)
 * [Lightning Dev Kit discord DLC chat](https://discord.gg/5AcknnMfBw)
 * [DLC telegram group](https://t.me/BitcoinDLCs)
 
 ## Related Resources
+_Last verified: 2026-10-14._
 
 To explore other aspects of the Bitcoin and freedom tech ecosystem, check out these additional resource directories:
 - [nostr.net](https://www.nostr.net) - A complete guide to Nostr - projects, implementations, developer tools and all other resources
@@ -124,6 +132,7 @@ If you'd like to add something to this list, please submit a [Pull Request on Gi
 This directory is maintained by [aljaz](https://disobey.dev/contact/). Your contributions help keep this information up-to-date and valuable.
 
 ## Contributors
+_Last verified: 2026-10-14._
 
 <a align="center" href="https://github.com/aljazceru/discreet-log-contracts/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=aljazceru/discreet-log-contracts"/>
