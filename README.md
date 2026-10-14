@@ -1,5 +1,15 @@
 Discreet log contract is an oracle contract scheme proposed by Tadge in [this whitepaper](https://adiabat.github.io/dlc.pdf).
 
+## What are Discreet Log Contracts?
+
+A Discreet Log Contract (DLC) is a bitcoin smart contract whose outcome is determined by an oracle's published nonce, signed off over an event (a price, a sports result, etc.). The contract is "discreet" because the oracle only sees the nonce, not the contract details — and "log" because of the discrete-log construction that ties the oracle's signature to the contract's outcome.
+
+## Where to start
+
+Read [the whitepaper](https://adiabat.github.io/dlc.pdf) first if you're comfortable with cryptography. Otherwise start with the [Introduction to Discreet Log Contracts](https://github.com/discreetlogcontracts/dlcspecs/blob/master/Introduction.md) on GitHub, then [Suredbits' three-part walkthrough](https://suredbits.com/discreet-log-contracts-part-1-what-is-a-discreet-log-contract/) for intuition. For protocol implementations, the [dlc-specs repo](https://github.com/discreetlogcontracts/dlcspecs) is the canonical reference.
+
+This list tracks specs, libraries, oracle implementations, and tools in the DLC ecosystem.
+
 ## Reading
 * [Introduction to Discreet log contracts](https://github.com/discreetlogcontracts/dlcspecs/blob/master/Introduction.md)
 * [Discreet log contracts @ MIT](https://dci.mit.edu/smart-contracts)
