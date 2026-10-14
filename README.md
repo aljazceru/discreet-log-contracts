@@ -2,7 +2,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 
 ## What are Discreet Log Contracts?
 
-A Discreet Log Contract (DLC) is a bitcoin smart contract whose outcome is determined by an oracle's published nonce, signed off over an event (a price, a sports result, etc.). The contract is "discreet" because the oracle only sees the nonce, not the contract details — and "log" because of the discrete-log construction that ties the oracle's signature to the contract's outcome.
+A DLC is a Bitcoin contract between two parties that settles on an oracle's signed attestation of an event. The oracle signs the outcome using a pre-announced nonce and never learns the contract exists; on-chain it looks like an ordinary transaction.
 
 ## Where to start
 
