@@ -4,7 +4,7 @@ plugins:
 - jekyll-seo-tag
 
 title: Discreet Log Contracts (DLC) Directory
-description: A directory of Discreet Log Contracts (DLC) reading material, talks, specifications, implementations, applications, oracle implementations, and community channels. Bitcoin-native smart contracts settled via oracle attestations.
+description: "A directory of Discreet Log Contracts (DLC) reading material, talks, specifications, implementations, applications, oracle implementations, and community channels. Bitcoin-native smart contracts settled via oracle attestations."
 author: aljaz
 lang: en
 baseurl: ""
