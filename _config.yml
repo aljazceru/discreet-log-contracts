@@ -1,6 +1,14 @@
 remote_theme: aljazceru/hacker-gh-pages-theme
 plugins:
 - jekyll-remote-theme
+- jekyll-seo-tag
+
+title: Discreet Log Contracts (DLC) Directory
+description: "A directory of Discreet Log Contracts (DLC) reading material, talks, specifications, implementations, applications, oracle implementations, and community channels. Bitcoin-native smart contracts settled via oracle attestations."
+author: aljaz
+lang: en
+baseurl: ""
+url: "https://dlc.wiki"
 
 show_downloads: false
 google_analytics: G-6DPY5RBB5L
