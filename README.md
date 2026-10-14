@@ -6,7 +6,7 @@ A DLC is a Bitcoin contract between two parties that settles on an oracle's sign
 
 ## Where to start
 
-Read [the whitepaper](https://adiabat.github.io/dlc.pdf) first if you're comfortable with cryptography. Otherwise start with the [Introduction to Discreet Log Contracts](https://github.com/discreetlogcontracts/dlcspecs/blob/master/Introduction.md) on GitHub, then [Suredbits' three-part walkthrough](https://suredbits.com/discreet-log-contracts-part-1-what-is-a-discreet-log-contract/) for intuition. For protocol implementations, the [dlc-specs repo](https://github.com/discreetlogcontracts/dlcspecs) is the canonical reference.
+Read [the whitepaper](https://adiabat.github.io/dlc.pdf) first if you're comfortable with cryptography. Otherwise start with the [Introduction to Discreet Log Contracts](https://github.com/discreetlogcontracts/dlcspecs/blob/master/Introduction.md) on GitHub for intuition. For protocol implementations, the [dlc-specs repo](https://github.com/discreetlogcontracts/dlcspecs) is the canonical reference.
 
 This list tracks specs, libraries, oracle implementations, and tools in the DLC ecosystem.
 
