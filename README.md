@@ -28,7 +28,7 @@ This list tracks specs, libraries, oracle implementations, and tools in the DLC 
 * [A Layperson's Guide to Discreet Log Contracts](https://atomic.finance/blog/discreet-log-contracts/)
 * [Bitcoin Oracle Contracts: Discreet Log Contracts in Practice](https://ieeexplore.ieee.org/document/9805512)
 * [Oracle-based Conditional payments on Bitcoin](https://blog.lnmarkets.com/oracle-based-conditionnal-payment-on-bitcoin-2/)
-* [DLCVM: Generalized, Unboundedly Scalable Computation on Bitcoin](https://dlcvm.tiiny.site/)
+* [DLCVM: Generalized, Unboundedly Scalable Computation on Bitcoin](https://web.archive.org/web/20240303192914/https://dlcvm.tiiny.site/)
 * [DLCtix: ticketed DLCs](https://github.com/conduition/dlctix) - Ticketed Discreet Log Contracts (DLCs) to enable instant buy-in for wager-like contracts on Bitcoin. 
 
 ## Talks and podcasts
@@ -65,9 +65,7 @@ This list tracks specs, libraries, oracle implementations, and tools in the DLC 
 * [Dart DLC](https://github.com/Horus-Org/dart-dlc)![stars](https://img.shields.io/github/stars/Horus-Org/dart-dlc?style=social), A Dart Library for DLCs
 * [Docker DLC](https://github.com/Horus-Org/docker-dlc/)![stars](https://img.shields.io/github/stars/Horus-Org/docker-dlc?style=social) -  Docker source for DLCs
 * [DLC Dev Kit](https://github.com/bennyhodl/dlcdevkit)![stars](https://img.shields.io/github/stars/bennyhodl/dlcdevkit?style=social)  - Application tooling for dlc contracts
-* [dlc-btc-lib](https://github.com/DLC-link/dlc-btc-lib)![stars](https://img.shields.io/github/stars/DLC-link/dlc-btc-lib?style=social), Library for interacting with DLC.Link smart contracts and the Bitcoin blockchain
-* [dlc-btc-website](https://github.com/DLC-link/dlc-btc-website)![stars](https://img.shields.io/github/stars/DLC-link/dlc-btc-website?style=social), Interface for interacting with DLC.Link smart contracts and the Bitcoin blockchain
-* [shared-attestor-configuration](https://github.com/DLC-link/shared-attestor-configuration)![stars](https://img.shields.io/github/stars/DLC-link/shared-attestor-configuration?style=social), Shared attestor configuration for the DLC.Link network
+* [dlc-btc-lib](https://web.archive.org/web/20251115134545/https://github.com/DLC-link/dlc-btc-lib), Library for interacting with DLC.Link smart contracts and the Bitcoin blockchain
 * [dlc-solidity](https://github.com/DLC-link/dlc-solidity)![stars](https://img.shields.io/github/stars/DLC-link/dlc-solidity?style=social), EVM compatible smart contracts and examples for the DLC.Link system
 * [cbtc-lib](https://github.com/DLC-link/cbtc-lib)![stars](https://img.shields.io/github/stars/DLC-link/cbtc-lib?style=social), A library of helper functions to Mint, Burn, and Transfer CBTC tokens on the Canton Network
 * [canton-lib](https://github.com/DLC-link/canton-lib)![stars](https://img.shields.io/github/stars/DLC-link/canton-lib?style=social), Public Canton related Rust library
@@ -91,7 +89,7 @@ This list tracks specs, libraries, oracle implementations, and tools in the DLC 
 * [suredbits oracle explorer](https://web.archive.org/web/20230921092459/https://oracle.suredbits.com/),
 * [krystal bull](https://github.com/bitcoin-s/krystal-bull)![stars](https://img.shields.io/github/stars/bitcoin-s/krystal-bull?style=social), a full featured DLC Oracle
 * [dlc-oracle-nodejs](https://github.com/mit-dci/dlc-oracle-nodejs)![stars](https://img.shields.io/github/stars/mit-dci/dlc-oracle-nodejs?style=social),  A library for making Discreet Log Contracts oracles in NodeJS 
-* [sibyls](https://github.com/lava-xyz/sibyls)![stars](https://img.shields.io/github/stars/lava-xyz/sibyls?style=social), an oracle implementation for numerical events based on rust-dlc
+* [sibyls](https://web.archive.org/web/20250414004600/https://github.com/lava-xyz/sibyls), an oracle implementation for numerical events based on rust-dlc
 * [p2pderivatives-oracle](https://github.com/p2pderivatives/p2pderivatives-oracle)![stars](https://img.shields.io/github/stars/p2pderivatives/p2pderivatives-oracle?style=social), and oracle implementation for numerical event written in golang
 * [Cassandra (conduition.io oracle)](https://conduition.io/code/cassandra/)
 * [kormir](https://github.com/bennyhodl/kormir)![stars](https://img.shields.io/github/stars/bennyhodl/kormir.svg?style=social), a basic DLC Oracle written in rust.
