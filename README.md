@@ -56,7 +56,6 @@ This list tracks specs, libraries, oracle implementations, and tools in the DLC 
 * [cfd-dlc](https://github.com/p2pderivatives/cfd-dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/cfd-dlc?style=social), Library for creating and managing Discreet Log Contracts (DLC) 
 * [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s)![stars](https://img.shields.io/github/stars/bitcoin-s/bitcoin-s.svg?style=social), Bitcoin Implementation in Scala 
 * [node-dlc](https://github.com/AtomicFinance/node-dlc)![stars](https://img.shields.io/github/stars/AtomicFinance/node-dlc.svg?style=social), Bitcoin DLC Protocol in Node.js runtime
-* [ExFacto](https://github.com/ExFacto/exfacto)![stars](https://img.shields.io/github/stars/ExFacto/exfacto.svg?style=social), Bitcoin DLC Protocol Implementation in Exilir
 * [javascript-dlc](https://github.com/PrivAtlas/javascript-dlc)![stars](https://img.shields.io/github/stars/PrivAtlas/javascript-dlc.svg?style=social) - Javascript library for working with Discreet Log Contracts and Lightning Network
 * [P2P Derivatives-Client](https://github.com/p2pderivatives/p2pderivatives-client)![stars](https://img.shields.io/github/stars/p2pderivatives/p2pderivatives-client.svg?style=social), Bitcoin DLC Protocol Implementation in Typescript
 * [P2P Derivatives DLC](https://github.com/p2pderivatives/dlc)![stars](https://img.shields.io/github/stars/p2pderivatives/dlc.svg?style=social), Bitcoin DLC Protocol Implementation in Go
